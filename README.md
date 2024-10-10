@@ -1,11 +1,11 @@
-<div align="center" style="width: 50%">
+<div align="center" style="width: 50%;" border-radius: 50%;>
     <img alt="Diego programador" 
-         src="https://firebasestorage.googleapis.com/v0/b/donacionescomunidad-4ff32.appspot.com/o/WhatsApp%20Image%202024-09-25%20at%2015.42.00.jpeg?alt=media&token=47f28e9a-a6f0-4f69-9fd2-6748473998fb" 
-         width="300" border-radius="100%"/>
+         src="" 
+         width="300" style="border-radius: 50%;" />
 </div>
 
 <h1 align="center">
-    Hola <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://firebasestorage.googleapis.com/v0/b/donacionescomunidad-4ff32.appspot.com/o/WhatsApp%20Image%202024-09-25%20at%2015.42.00.jpeg?alt=media&token=47f28e9a-a6f0-4f69-9fd2-6748473998fb)" width="35">, Soy Diego Salvatierra
+    Hola <img src="" width="35">, Soy Diego Salvatierra
 </h1>
 
 <div align="center">
@@ -63,40 +63,61 @@
 
 ---
 
-## Proyecto en React Native Expo Calculo de compras📱:
+## Proyecto en React Native Expo: **Cálculo de Compras** 📱
 
-<div align="center">
-    <img alt="Desarrollo de aplicación con React Native Expo" 
-         src="https://firebasestorage.googleapis.com/v0/b/react-firebase-e0cf3.appspot.com/o/Google%20Pixel%204%20XL%20Presentation.png?alt=media&token=8eb903bb-f9df-4fc9-b71d-1a033855931b" 
-         width="500"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img alt="Desarrollo de aplicación con React Native Expo" 
+           src="https://firebasestorage.googleapis.com/v0/b/react-firebase-e0cf3.appspot.com/o/Google%20Pixel%204%20XL%20Presentation.png?alt=media&token=8eb903bb-f9df-4fc9-b71d-1a033855931b" 
+           width="300"/>
+    </td>
+    <td>
+      <strong>Cálculo de Compras 🌐:</strong>
+      <ul>
+        <li><strong>Descargar APK:</strong> <a href="https://drive.google.com/file/d/1sSEXt5JWVBSrkVzcKSn5v8nVO6C6xi66/view?usp=sharing">Haz clic aquí</a>.</li>
+        <li><strong>Ver PDF:</strong> <a href="https://drive.google.com/file/d/1nbBHqSKm4PHVg8UxABweilFKFIUSGvZv/view?usp=sharing">Haz clic aquí</a>.</li>
+        <li><strong>Código:</strong> <a href="#">Ver código fuente</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**Calculo de compras 🌐:**
-
-- Descargar apk [aquí](https://drive.google.com/file/d/1sSEXt5JWVBSrkVzcKSn5v8nVO6C6xi66/view?usp=sharing).
-- Ver PDF [aquí](https://drive.google.com/file/d/1nbBHqSKm4PHVg8UxABweilFKFIUSGvZv/view?usp=sharing).
-- Código [aquí](#)
-
-**Web hecha con React 🌐:**
-
-- Puedes ver la web [aquí](https://mis-compras-calculo.netlify.app/).
-- Código [aquí](https://github.com/salvatierraprogrammer/misCompras)
+<table>
+  <tr>
+    <td>
+      <img alt="Desarrollo de aplicación con React Native Expo" 
+           src="https://firebasestorage.googleapis.com/v0/b/react-firebase-e0cf3.appspot.com/o/Google%20Pixel%204%20XL%20Presentation.png?alt=media&token=8eb903bb-f9df-4fc9-b71d-1a033855931b" 
+           width="300"/>
+    </td>
+    <td>
+      <strong>Web hecha con React 🌐:</strong>
+      <ul>
+        <li><strong>Ver la web:</strong> <a href="https://mis-compras-calculo.netlify.app/">Haz clic aquí</a>.</li>
+        <li><strong>Código fuente:</strong> <a href="https://github.com/salvatierraprogrammer/misCompras">Repositorio en GitHub</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Agenda de notas en React Native Expo 📱:
+## Agenda de notas en React Native Expo 📱
 
-<div align="center">
-    <img alt="Otro Proyecto con React Native Expo" 
-         src="https://firebasestorage.googleapis.com/v0/b/react-firebase-e0cf3.appspot.com/o/Captura%20de%20pantalla%202024-10-02%20202110.png?alt=media&token=f3b026e0-3709-471d-8dc5-1be9085455d1" 
-         width="500"/>
-</div>
-
-**Agenda de notas 🌐:**
-
-- Descargar apk [aquí](https://drive.google.com/file/d/1wHhdyxg7hveNjwPy9qwIMTEFSM5FPNu-/view?usp=sharing).
-- Ver PDF [aquí](https://drive.google.com/file/d/1miIAP4qkDpUQeLL99A9Eh5mxv8G7Dvej/view?usp=sharing).
-- Código [aquí](#)
-
----
-
+<table>
+  <tr>
+    <td>
+      <img alt="Otro Proyecto con React Native Expo" 
+           src="https://firebasestorage.googleapis.com/v0/b/react-firebase-e0cf3.appspot.com/o/Captura%20de%20pantalla%202024-10-02%20202110.png?alt=media&token=f3b026e0-3709-471d-8dc5-1be9085455d1" 
+           width="500"/>
+    </td>
+    <td>
+      <strong>Agenda de notas 🌐:</strong>
+      <ul>
+        <li><strong>Descargar APK:</strong> <a href="https://drive.google.com/file/d/1wHhdyxg7hveNjwPy9qwIMTEFSM5FPNu-/view?usp=sharing">Haz clic aquí</a>.</li>
+        <li><strong>Ver PDF:</strong> <a href="https://drive.google.com/file/d/1miIAP4qkDpUQeLL99A9Eh5mxv8G7Dvej/view?usp=sharing">Haz clic aquí</a>.</li>
+        <li><strong>Código:</strong> <a href="#">Ver código fuente</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
