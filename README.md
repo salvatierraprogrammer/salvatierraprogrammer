@@ -63,44 +63,7 @@
 
 ---
 
-## Proyecto en React Native Expo: **Cálculo de Compras** 📱
-
-<table>
-  <tr>
-    <td>
-      <img alt="Desarrollo de aplicación con React Native Expo" 
-           src="https://firebasestorage.googleapis.com/v0/b/react-firebase-e0cf3.appspot.com/o/Google%20Pixel%204%20XL%20Presentation.png?alt=media&token=8eb903bb-f9df-4fc9-b71d-1a033855931b" 
-           width="300"/>
-    </td>
-    <td>
-      <strong>Cálculo de Compras 🌐:</strong>
-      <ul>
-        <li><strong>Descargar APK:</strong> <a href="https://drive.google.com/file/d/1sSEXt5JWVBSrkVzcKSn5v8nVO6C6xi66/view?usp=sharing">Haz clic aquí</a>.</li>
-        <li><strong>Ver PDF:</strong> <a href="https://drive.google.com/file/d/1nbBHqSKm4PHVg8UxABweilFKFIUSGvZv/view?usp=sharing">Haz clic aquí</a>.</li>
-        <li><strong>Código:</strong> <a href="#">Ver código fuente</a>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img alt="Desarrollo de aplicación con React Native Expo" 
-           src="https://firebasestorage.googleapis.com/v0/b/react-firebase-e0cf3.appspot.com/o/Google%20Pixel%204%20XL%20Presentation.png?alt=media&token=8eb903bb-f9df-4fc9-b71d-1a033855931b" 
-           width="300"/>
-    </td>
-    <td>
-      <strong>Web hecha con React 🌐:</strong>
-      <ul>
-        <li><strong>Ver la web:</strong> <a href="https://mis-compras-calculo.netlify.app/">Haz clic aquí</a>.</li>
-        <li><strong>Código fuente:</strong> <a href="https://github.com/salvatierraprogrammer/misCompras">Repositorio en GitHub</a>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
+## Proyectos  Backend:
 
 ## Agenda de notas en React Native Expo 📱
 
@@ -121,3 +84,68 @@
     </td>
   </tr>
 </table>
+
+
+## Proyecto en React Native Expo: **Cálculo de Compras** 📱
+
+<table>
+  <tr>
+    <td>
+      <img alt="Desarrollo de aplicación con React Native Expo" 
+           src="https://firebasestorage.googleapis.com/v0/b/react-firebase-e0cf3.appspot.com/o/Google%20Pixel%204%20XL%20Presentation.png?alt=media&token=8eb903bb-f9df-4fc9-b71d-1a033855931b" 
+           width="400"/>
+    </td>
+    <td>
+      <strong>Cálculo de Compras 🌐:</strong>
+      <ul>
+        <li><strong>Descargar APK:</strong> <a href="https://drive.google.com/file/d/1sSEXt5JWVBSrkVzcKSn5v8nVO6C6xi66/view?usp=sharing">Haz clic aquí</a>.</li>
+        <li><strong>Ver PDF:</strong> <a href="https://drive.google.com/file/d/1nbBHqSKm4PHVg8UxABweilFKFIUSGvZv/view?usp=sharing">Haz clic aquí</a>.</li>
+        <li><strong>Código:</strong> <a href="#">Ver código fuente</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img alt="Desarrollo de aplicación con React Native Expo" 
+           src="https://firebasestorage.googleapis.com/v0/b/donacionescomunidad-4ff32.appspot.com/o/Captura%20de%20pantalla%202024-10-01%20214903.png?alt=media&token=75efd8ad-842c-4e55-833b-491ab806c2e7" 
+           width="400"/>
+    </td>
+    <td>
+      <strong>Calculo de compras React + TypeScript + Vite 🌐:</strong>
+      <ul>
+        <li><strong>Ver la web:</strong> <a href="https://mis-compras-calculo.netlify.app/">Haz clic aquí</a>.</li>
+        <li><strong>Código fuente:</strong> <a href="https://github.com/salvatierraprogrammer/misCompras">Repositorio en GitHub</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+
+## Comunidad CS 1.6 React + TypeScript + Vite
+
+<table>
+  <tr>
+    <td>
+      <img alt="Comunidad CS 1.6 " 
+           src="https://firebasestorage.googleapis.com/v0/b/donacionescomunidad-4ff32.appspot.com/o/comunidadCS16.PNG?alt=media&token=03c05275-d4c9-4b51-a5a8-b8c7ad1dc382" 
+           width="400"/>
+    </td>
+    <td>
+      <strong>Comunidad CS 1.6 🌐:</strong>
+      <ul>
+        <li><strong>Ver web:</strong> <a href="https://baquitacomunidadcs.netlify.app/">Haz clic aquí</a>.</li>
+        <li><strong>Código:</strong> <a href="#">Ver código fuente</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+
+
