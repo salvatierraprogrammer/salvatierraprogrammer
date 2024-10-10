@@ -111,7 +111,7 @@
   <tr>
     <td>
       <img alt="Calculo de compras React + TypeScript + Vite" 
-           src="https://firebasestorage.googleapis.com/v0/b/donacionescomunidad-4ff32.appspot.com/o/Captura%20de%20pantalla%202024-10-01%20214903.png?alt=media&token=75efd8ad-842c-4e55-833b-491ab806c2e7" 
+           src="https://firebasestorage.googleapis.com/v0/b/donacionescomunidad-4ff32.appspot.com/o/misCompras.PNG?alt=media&token=d1961585-1bee-49bc-9579-ed6e0a3c91b6" 
            width="400"/>
     </td>
     <td>
