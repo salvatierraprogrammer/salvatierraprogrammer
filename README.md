@@ -100,6 +100,3 @@
 
 ---
 
-## Trofeos de GitHub 🏆:
-
-[![trofeo](https://github-profile-trophy.vercel.app/?username=salvatierraprogrammer)](https://github.com/salvatierraprogrammer/github-profile-trophy)
