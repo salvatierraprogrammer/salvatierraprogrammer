@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-    Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Diego Salvatierra
+    Hola <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://firebasestorage.googleapis.com/v0/b/donacionescomunidad-4ff32.appspot.com/o/WhatsApp%20Image%202024-09-25%20at%2015.42.00.jpeg?alt=media&token=47f28e9a-a6f0-4f69-9fd2-6748473998fb)" width="35">, Soy Diego Salvatierra
 </h1>
 
 <div align="center">
