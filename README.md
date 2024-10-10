@@ -1,7 +1,7 @@
 <div align="center" style="width: 50%">
     <img alt="Diego programador" 
          src="https://firebasestorage.googleapis.com/v0/b/donacionescomunidad-4ff32.appspot.com/o/WhatsApp%20Image%202024-09-25%20at%2015.42.00.jpeg?alt=media&token=47f28e9a-a6f0-4f69-9fd2-6748473998fb" 
-         width="300"/>
+         width="300" border-radius="100%"/>
 </div>
 
 <h1 align="center">
