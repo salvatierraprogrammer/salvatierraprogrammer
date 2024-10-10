@@ -29,9 +29,6 @@
 ## Conecta Conmigo ☕:
 
 <div align="center">
-    <a href="https://www.instagram.com/diego_6348/">
-        <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="@diego_6348"/>
-    </a>
     <a href="https://www.linkedin.com/in/dos354ab4/">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@Diego Salvatierra"/>
     </a>
