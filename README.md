@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-    Hola <img src="" width="35">, Soy Diego Salvatierra
+    Hola <img src="" width="35">, Soy
 </h1>
 
 <div align="center">
